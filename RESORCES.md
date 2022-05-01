@@ -160,6 +160,10 @@ https://github.com/burntmybagel/OSCP-Prep
 
 https://github.com/alexiasa/oscp-omnibus
 
+https://github.com/rewardone/OSCPRepo
+
+https://github.com/0x4D31/awesome-oscp#resources
+
 
 • Subtopic 1
 https://github.com/JoaoPauloF/OSCP
@@ -197,6 +201,10 @@ https://medium.com/oscp-cheatsheet/oscp-cheatsheet-6c80b9fa8d7e
 
 # Buffer Overflow
 https://github.com/V1n1v131r4/OSCP-Buffer-Overflow
+
+http://strongcourage.github.io/2020/04/19/bof.html
+
+https://strongcourage.github.io/2020/04/19/bof.html
 
 https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst
 
@@ -325,3 +333,16 @@ https://www.youtube.com/watch?v=pwUZCiVB4Pk
 https://www.youtube.com/watch?v=2DqdPcbYcy8&list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf
 
 https://www.youtube.com/watch?v=Nh8doFZcBJI&list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b
+
+# OSCP methodology  
+https://paper.dropbox.com/doc/OSCP-Methodology-EnVX7VSiNGZ2K2QxCZD7Q
+
+https://github.com/OlivierLaflamme/Cheatsheet-God
+
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+https://github.com/foobarto/redteam-notebook/blob/master/README.md
+
+https://github.com/RustyShackleford221/OSCP-Prep
+
+https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/
